@@ -1,0 +1,8 @@
+setInterval(
+	function(){
+        var a = new Date()
+		if(a=="Fri Nov 11 2016 00:00:00 GMT+0800 (中国标准时间)"){
+			J_LinkBuy.click();
+		}}
+		,10
+);
